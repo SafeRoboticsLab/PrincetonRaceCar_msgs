@@ -1,5 +1,5 @@
 Header header
 
 # State [x,y]
-float64[] x #[m]
-float64[] y #[m]
+float32[] x #[m]
+float32[] y #[m]

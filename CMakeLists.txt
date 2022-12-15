@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.12)
-project(princeton_racecar_msgs)
+project(racecar_msgs)
 
 find_package(catkin REQUIRED COMPONENTS
   message_generation

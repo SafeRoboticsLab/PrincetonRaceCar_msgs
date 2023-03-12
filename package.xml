@@ -13,5 +13,6 @@
   <exec_depend>message_runtime</exec_depend>
 
   <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
 
 </package>

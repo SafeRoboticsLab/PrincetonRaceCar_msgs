@@ -11,6 +11,7 @@ add_message_files(
   FILES
   ServoMsg.msg
   OdometryArray.msg
+  SetArray.msg
 )
 
 generate_messages(

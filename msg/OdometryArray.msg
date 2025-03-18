@@ -1,3 +1,3 @@
-Header header
+std_msgs/Header header
 
-nav_msgs/Odometry[] odom_list
+nav_msgs/Odometry[ ] odometry_array
